@@ -1,0 +1,8 @@
+C:\Projects\ShippingExpress\ShippingExpress\bin\Debug\ShippingExpress.exe.config
+C:\Projects\ShippingExpress\ShippingExpress\bin\Debug\ShippingExpress.exe
+C:\Projects\ShippingExpress\ShippingExpress\bin\Debug\ShippingExpress.pdb
+C:\Projects\ShippingExpress\ShippingExpress\obj\Debug\ShippingExpress.csproj.AssemblyReference.cache
+C:\Projects\ShippingExpress\ShippingExpress\obj\Debug\ShippingExpress.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ShippingExpress\ShippingExpress\obj\Debug\ShippingExpress.csproj.CoreCompileInputs.cache
+C:\Projects\ShippingExpress\ShippingExpress\obj\Debug\ShippingExpress.exe
+C:\Projects\ShippingExpress\ShippingExpress\obj\Debug\ShippingExpress.pdb
