@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\bin\Debug\ConsoleAppUserInput.exe.config
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\bin\Debug\ConsoleAppUserInput.exe
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\bin\Debug\ConsoleAppUserInput.pdb
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\obj\Debug\ConsoleAppUserInput.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\obj\Debug\ConsoleAppUserInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\obj\Debug\ConsoleAppUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\obj\Debug\ConsoleAppUserInput.exe
+C:\Users\ASUS\source\repos\ConsoleAppUserInput\ConsoleAppUserInput\obj\Debug\ConsoleAppUserInput.pdb
