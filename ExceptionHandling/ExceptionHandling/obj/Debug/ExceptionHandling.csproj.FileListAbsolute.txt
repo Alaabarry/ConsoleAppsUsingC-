@@ -1,0 +1,8 @@
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
