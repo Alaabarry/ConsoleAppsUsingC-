@@ -1,0 +1,8 @@
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\bin\Debug\ComputerBrandSearch.exe.config
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\bin\Debug\ComputerBrandSearch.exe
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\bin\Debug\ComputerBrandSearch.pdb
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\obj\Debug\ComputerBrandSearch.csproj.AssemblyReference.cache
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\obj\Debug\ComputerBrandSearch.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\obj\Debug\ComputerBrandSearch.csproj.CoreCompileInputs.cache
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\obj\Debug\ComputerBrandSearch.exe
+C:\Projects\ComputerBrandSearch\ComputerBrandSearch\obj\Debug\ComputerBrandSearch.pdb
