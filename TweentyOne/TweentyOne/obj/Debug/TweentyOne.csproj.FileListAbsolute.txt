@@ -1,0 +1,8 @@
+C:\Projects\TweentyOne\TweentyOne\bin\Debug\TweentyOne.exe.config
+C:\Projects\TweentyOne\TweentyOne\bin\Debug\TweentyOne.exe
+C:\Projects\TweentyOne\TweentyOne\bin\Debug\TweentyOne.pdb
+C:\Projects\TweentyOne\TweentyOne\obj\Debug\TweentyOne.csproj.AssemblyReference.cache
+C:\Projects\TweentyOne\TweentyOne\obj\Debug\TweentyOne.csproj.SuggestedBindingRedirects.cache
+C:\Projects\TweentyOne\TweentyOne\obj\Debug\TweentyOne.csproj.CoreCompileInputs.cache
+C:\Projects\TweentyOne\TweentyOne\obj\Debug\TweentyOne.exe
+C:\Projects\TweentyOne\TweentyOne\obj\Debug\TweentyOne.pdb
