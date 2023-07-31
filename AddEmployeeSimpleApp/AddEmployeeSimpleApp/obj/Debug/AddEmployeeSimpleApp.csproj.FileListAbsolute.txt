@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\bin\Debug\AddEmployeeSimpleApp.exe.config
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\bin\Debug\AddEmployeeSimpleApp.exe
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\bin\Debug\AddEmployeeSimpleApp.pdb
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.exe
+C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.pdb
