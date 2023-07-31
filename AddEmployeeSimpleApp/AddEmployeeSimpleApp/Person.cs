@@ -6,18 +6,20 @@ using System.Threading.Tasks;
 
 namespace AddEmployeeSimpleApp
 { 
-    // create class person that contain two properties fname,lastname, method to display full name...
-    public class Person
+    // create absract class person that contain two properties fname,lastname, method ...
+    public abstract class Person
     {  
        
         public string firstName { get; set; } 
         public string lastName { get; set; }
-         
-        // create void method that takes no parameters and write to console emp full name..
-        public void AddEmp() {
 
-            Console.WriteLine("Employee Full Name is " + this.firstName + this.lastName);
+        // create abstract method add Emp ...
+        public abstract void AddEmp();
         
-        }
+     
+
+            
+        
+        
     }
 }

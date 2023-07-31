@@ -6,3 +6,11 @@ C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\A
 C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.exe
 C:\Users\ASUS\source\repos\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.pdb
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\bin\Debug\AddEmployeeSimpleApp.exe.config
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\bin\Debug\AddEmployeeSimpleApp.exe
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\bin\Debug\AddEmployeeSimpleApp.pdb
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.csproj.AssemblyReference.cache
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.csproj.CoreCompileInputs.cache
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.exe
+C:\Projects\AddEmployeeSimpleApp\AddEmployeeSimpleApp\obj\Debug\AddEmployeeSimpleApp.pdb

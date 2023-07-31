@@ -13,19 +13,18 @@ namespace TweentyOne
     {
         static void Main(string[] args)
         {
-            Game game = new Game();
-            game.Players = new List<string> { "Alaa", "bill", "Micheal" };
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players= new List<string> { "bill", "omar" };
             game.listPlayers();
             Console.ReadLine();
 
-            //create object from class Decks
-            //Decks deck = new Decks(); 
+           
+           // Decks deck = new Decks(); 
           //  deck.Shuffle(3); 
            
-           // foreach (Card card in deck.Cards)
-           // {
-
-           //     Console.WriteLine(card.Face + "of" + card.Suit);
+          //  foreach (Card card in deck.Cards)
+          // {
+          //     Console.WriteLine(card.Face + "of" + card.Suit);
 
           //  }
 
