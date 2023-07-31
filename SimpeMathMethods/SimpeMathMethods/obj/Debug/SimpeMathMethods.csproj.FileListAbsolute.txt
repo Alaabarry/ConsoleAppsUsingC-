@@ -1,0 +1,8 @@
+C:\Projects\SimpeMathMethods\SimpeMathMethods\bin\Debug\SimpeMathMethods.exe.config
+C:\Projects\SimpeMathMethods\SimpeMathMethods\bin\Debug\SimpeMathMethods.exe
+C:\Projects\SimpeMathMethods\SimpeMathMethods\bin\Debug\SimpeMathMethods.pdb
+C:\Projects\SimpeMathMethods\SimpeMathMethods\obj\Debug\SimpeMathMethods.csproj.AssemblyReference.cache
+C:\Projects\SimpeMathMethods\SimpeMathMethods\obj\Debug\SimpeMathMethods.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SimpeMathMethods\SimpeMathMethods\obj\Debug\SimpeMathMethods.csproj.CoreCompileInputs.cache
+C:\Projects\SimpeMathMethods\SimpeMathMethods\obj\Debug\SimpeMathMethods.exe
+C:\Projects\SimpeMathMethods\SimpeMathMethods\obj\Debug\SimpeMathMethods.pdb
