@@ -12,7 +12,9 @@ namespace AddEmployeeSimpleApp
         {    // create objec Emp from class employee and assign fname and last name that inherit from person class
             Employee empOne = new Employee() { firstName ="Alaa", lastName = "Barry"}; 
             //call the superclass method addEmp  on employee object...
-            empOne.AddEmp();
+            empOne.AddEmp(); 
+            //call the superclass method Quiet on employee object...
+            empOne.Quiet();
             Console.ReadLine();
         }
     }

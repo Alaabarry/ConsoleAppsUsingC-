@@ -6,18 +6,24 @@ using System.Threading.Tasks;
 
 namespace TweentyOne
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame : Game, IwalkAway
     {
         public override void Play() {
-        
-        throw new NotImplementedException();
-        
+
+            throw new NotImplementedException();
+
         }
-        public override void listPlayers() 
+        public override void listPlayers()
 
         {
             Console.WriteLine("21 players ");
             base.listPlayers();
+        }
+        
+
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }

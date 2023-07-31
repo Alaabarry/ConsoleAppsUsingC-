@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AddEmployeeSimpleApp
 { 
-    // create absract class person that contain two properties fname,lastname, method ...
+    // create absract class person that contain two properties fname,lastname and method ...
     public abstract class Person
     {  
        
