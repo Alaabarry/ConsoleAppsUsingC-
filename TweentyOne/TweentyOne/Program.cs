@@ -13,45 +13,28 @@ namespace TweentyOne
     {
         static void Main(string[] args)
         {
-            
+            Game game = new Game();
+            game.Players = new List<string> { "Alaa", "bill", "Micheal" };
+            game.listPlayers();
+            Console.ReadLine();
+
             //create object from class Decks
-            Decks deck = new Decks();
-            // deck = Shuffle(deck); 
-            deck = Shuffle(deck,3);
+            //Decks deck = new Decks(); 
+          //  deck.Shuffle(3); 
+           
+           // foreach (Card card in deck.Cards)
+           // {
 
-            //for loop in decks that containd cards as list
-            foreach (Card card in deck.Cards)
-            {
+           //     Console.WriteLine(card.Face + "of" + card.Suit);
 
-                Console.WriteLine(card.Face + "of" + card.Suit);
+          //  }
 
-            }
-
-            Console.WriteLine(deck.Cards.Count); 
+          //  Console.WriteLine(deck.Cards.Count); 
             
         }
-        public static Decks Shuffle(Decks deck) {
-            List<Card> TempList = new List<Card>();
-            Random rnd = new Random();
-            while(deck.Cards.Count >0){ 
-             int randomIndex = rnd.Next(0,deck.Cards.Count);
-                TempList.Add(deck.Cards[randomIndex]);
-                deck.Cards.RemoveAt(randomIndex);
-            
-            }
-            deck.Cards = TempList; 
-            return deck;     
-            
-        }
-        public static Decks Shuffle(Decks deck, int Times) {
-
-            for (int i=0; i< Times;i++)
-            {
-             deck = Shuffle(deck, i);
-            
-            } 
-            return deck;
         
-        }
+       
+        
+        
     }
 }
