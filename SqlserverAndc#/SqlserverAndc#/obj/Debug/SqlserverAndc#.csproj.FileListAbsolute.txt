@@ -1,0 +1,8 @@
+C:\Projects\SqlserverAndc#\SqlserverAndc#\obj\Debug\SqlserverAndc#.csproj.AssemblyReference.cache
+C:\Projects\SqlserverAndc#\SqlserverAndc#\obj\Debug\SqlserverAndc#.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SqlserverAndc#\SqlserverAndc#\obj\Debug\SqlserverAndc#.csproj.CoreCompileInputs.cache
+C:\Projects\SqlserverAndc#\SqlserverAndc#\bin\Debug\SqlserverAndc#.exe.config
+C:\Projects\SqlserverAndc#\SqlserverAndc#\bin\Debug\SqlserverAndc#.exe
+C:\Projects\SqlserverAndc#\SqlserverAndc#\bin\Debug\SqlserverAndc#.pdb
+C:\Projects\SqlserverAndc#\SqlserverAndc#\obj\Debug\SqlserverAndc#.exe
+C:\Projects\SqlserverAndc#\SqlserverAndc#\obj\Debug\SqlserverAndc#.pdb

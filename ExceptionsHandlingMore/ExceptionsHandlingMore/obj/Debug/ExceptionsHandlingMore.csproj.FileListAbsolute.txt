@@ -1,0 +1,8 @@
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\bin\Debug\ExceptionsHandlingMore.exe.config
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\bin\Debug\ExceptionsHandlingMore.exe
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\bin\Debug\ExceptionsHandlingMore.pdb
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\obj\Debug\ExceptionsHandlingMore.csproj.AssemblyReference.cache
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\obj\Debug\ExceptionsHandlingMore.csproj.SuggestedBindingRedirects.cache
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\obj\Debug\ExceptionsHandlingMore.csproj.CoreCompileInputs.cache
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\obj\Debug\ExceptionsHandlingMore.exe
+C:\Projects\ExceptionsHandlingMore\ExceptionsHandlingMore\obj\Debug\ExceptionsHandlingMore.pdb

@@ -1,0 +1,46 @@
+﻿ 
+<div class="row  no-gutters m-3">
+    
+<div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+
+    <div class="card-header text-center">
+        <h4 class="m-0 text-center">Sign Up to Our Website</h4>
+    </div>
+    <div class="card-body">
+        @using (Html.BeginForm("SignUp","Home",FormMethod.Post)) {
+        
+        <div class="row no-gutters  ">
+
+            <div class="col-md-12 form-group pt-3">
+
+                <input type="text" name="FirstName" class="form-control" placeholder="First Name" />
+            </div> 
+
+            <div class="col-md-12 form-group pt-3">
+
+                <input type="text" name="LastName" class="form-control" placeholder="Last Name" />
+            </div> 
+
+            <div class="col-md-12 form-group pt-3 pb-3">
+
+                <input type="email" name="EmailAddress" class="form-control"placeholder="Email Address" />
+               
+            </div> 
+            <button type="submit" class="btn btn-block btn-primary">Submit</button>
+
+
+        </div>
+        
+        
+        
+        }
+
+    </div>
+
+</div>
+
+
+
+
+
+</div>
